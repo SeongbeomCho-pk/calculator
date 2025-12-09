@@ -1,6 +1,7 @@
 #ifndef STACK_H
 #define STACK_H
 #include <stdbool.h> 
+#define STUDENT_NAME "SeongBeom"
 
 typedef int Item;
 typedef struct stack {
